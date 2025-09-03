@@ -3,9 +3,7 @@
 // Main function: entry point for execution
 int main() {
 
-    float f = 0.6;
-
-    printf("Hello World %f", f);
+    printf("Hello World");
 
     return 0;
 }

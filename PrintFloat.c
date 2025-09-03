@@ -2,5 +2,5 @@
 
 int main(){
     float f = 0.5;
-    printf("%f",f);
+    printf("%f.2",f);
 }
